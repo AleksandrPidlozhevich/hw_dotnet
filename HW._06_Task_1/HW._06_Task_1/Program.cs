@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_1
+namespace HW._06_Task_1
 {
     class Program
     {
